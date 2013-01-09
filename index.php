@@ -17,13 +17,12 @@
     <a class="brand" href="#">Title</a>
     <ul class="nav">
       <li class="active"><a href="#">Home</a></li>
-      <li><a href="#">Link</a></li>
-      <li><a href="#">Link</a></li>
+      <li><a href="abc">Link</a></li>
+      <li><a href="def">Link</a></li>
     </ul>
   </div>
 </div>
       
-        
      <form>
   <fieldset>
     <legend>Legend</legend>
